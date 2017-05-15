@@ -49,7 +49,7 @@ class MockingjaySessionTests: XCTestCase {
     }) .resume()
 
     waitForExpectations(timeout: 5) { error in
-      XCTAssertNil(error, "\(error)")
+      XCTAssertNil(error, "\(String(describing: error))")
     }
   }
 }
