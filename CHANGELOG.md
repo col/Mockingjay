@@ -1,5 +1,9 @@
 # Mockingjay Changelog
 
+## 2.0.1 (2017-05-15)
+
+This release adds support for Carthage
+
 ## 2.0.0 (2016-10-07)
 
 ### Breaking
